@@ -1,0 +1,27 @@
+body{
+    background-color:#ADD8E6;
+}
+.login{
+    border-radius:10px;
+    background-color:white;
+    width:500px;
+    padding:20px;
+}
+.username_label{
+    font-weight:bold;
+}
+#login{
+    width:400px;
+}
+#word_input{
+    width:700px;
+}
+#output{
+    width:800px;
+    background-color:whitesmoke;
+    padding-bottom:15px;
+    padding-left:30px;
+    border-radius:10px;
+    border-top:7px solid;
+    text-align:left;
+}
